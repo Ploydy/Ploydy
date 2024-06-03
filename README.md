@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ploydy
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Nestjs with Prisma
+- 🌱 I’m currently learning tRPC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, You can reach me by sending an Email: Lfecarballo20@gmail.com 
 
